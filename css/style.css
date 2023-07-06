@@ -12975,7 +12975,7 @@ h5,
 
 .project:hover .overlay,
 .project:focus .overlay {
-  opacity: .9;
+  opacity: .2;
 }
 
 .project:hover .text,
